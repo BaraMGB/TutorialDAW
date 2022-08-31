@@ -1,3 +1,6 @@
-[submodule "modules"]
-	path = modules
+[submodule "modules/tracktion"]
+	path = modules/tracktion
 	url = https://github.com/Tracktion/tracktion_engine.git
+[submodule "modules/juce"]
+	path = modules/juce
+	url = https://github.com/juce-framework/JUCE.git
